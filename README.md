@@ -9,4 +9,4 @@
 - Video Analysis and 3D Vision Analysis
 - Game and Virtual Reality programming (Unreal Engine, Unity Engine)
 - 🌱 I’m currently learning web development programming
-- ⚡ I’m currently to be into algorithm studying.
+- ⚡ I’m currently to be into algorithm studying
