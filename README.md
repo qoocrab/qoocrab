@@ -11,4 +11,4 @@
 - 🌱 I’m currently learning web development programming
 - ⚡ I’m currently to be into algorithm studying
 
-<img src="https://img.shields.io/badge/Python-grey?style=flat&logo=Python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-grey?style=flat&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-squre&logo=C%2B%2B&logoColor=white"/>
