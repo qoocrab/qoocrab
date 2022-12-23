@@ -1,7 +1,7 @@
 ### Researcher 🤔
 - Ph.D. Candidate in Dept. of Computer Science, Yonsei University
 - Multimedia Analysis, Human-Computer Interaction, Virtual Reality
-- Experienced as a game programmer at Nexon Korea
+- Experienced as a game programmer at Nexon
 
 ### Interest
 - Interested in using <b>computer vision</b> technology to gain insights from <b>cognitive science and HCI perspectives</b>.
