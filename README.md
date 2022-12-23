@@ -5,7 +5,7 @@
 
 ### Interest
 - Interested in using <b>computer vision</b> technology to gain insights from <b>cognitive science and HCI perspectives</b>.
-- Deep Learning (Computer Vision, Machine Learning)
+- Deep Learning (Computer Vision)
 - Video Analysis and 3D Vision Analysis
 - Game and Virtual Reality programming (Unreal Engine, Unity Engine)
 - 🌱 I’m currently learning web development programming
