@@ -1,16 +1,13 @@
-### Hi there 👋
+### Researcher 🤔
+- Ph.D. Candidate in Dept. of Computer Science, Yonsei University
+- Multimedia Analysis, Human-Computer Interaction, Virtual Reality
+- Experienced as a game programmer at Nexon
 
-<!--
-**qoocrab/qoocrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interest
+- Interested in using <b>computer vision</b> technology to gain insights from <b>cognitive science and HCI perspectives</b>.
+- Computer Vision (Video Analysis and 3D Vision Analysis)
+- Game and Virtual Reality (Unreal Engine, Unity Engine)
+- 🌱 I’m currently learning web development
+- ⚡ I’m currently to be into solving problem (algorithm study)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Python-grey?style=flat&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-squre&logo=C%2B%2B&logoColor=white"/>
