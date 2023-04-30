@@ -9,5 +9,3 @@
 - Game and Virtual Reality (Unreal Engine, Unity Engine)
 - 🌱 I’m currently learning web and app development
 - ⚡ I’m currently to be into solving problem (algorithm study)
-
-<img src="https://img.shields.io/badge/Python-grey?style=flat&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-squre&logo=C%2B%2B&logoColor=white"/>
