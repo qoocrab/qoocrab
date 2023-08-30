@@ -1,5 +1,6 @@
 ### Researcher 🤔
-- Ph.D. Candidate in Dept. of Computer Science, Yonsei University
+- Postdoctoral Researcher in Dept. of Computer Science, Yonsei University
+- Ph.D. in Dept. of Computer Science, Yonsei University
 - Multimedia Analysis, XAI, Human-Computer Interaction, Virtual Reality
 - Experienced as a game programmer at Nexon
 
