@@ -1,12 +1,13 @@
-### Researcher 🤔
-- Postdoctoral Researcher in Dept. of Computer Science, Yonsei University
-- Ph.D. in Dept. of Computer Science, Yonsei University
-- Multimedia Analysis, XAI, Human-Computer Interaction, Virtual Reality
-- Experienced as a game programmer at Nexon
+### VRAI Researcher 🤔
+- Assistant Professor in the Department of Software, Dankook University 🔮
+- Postdoctoral Researcher, Computer Science, Yonsei University
+- Ph.D. in Computer Science from Yonsei University
+- Game Programmer at Nexon
 
-### Interest
-- Interested in using <b>computer vision</b> technology to gain insights from <b>cognitive science and HCI perspectives</b>.
-- Computer Vision (Video Analysis and 3D Vision Analysis), XAI
-- Game and Virtual Reality development (Unreal Engine, Unity Engine)
-- 🌱 I’m currently learning web and app development.
-- ⚡ I’m currently into solving problems (algorithms).
+### Interests
+- Virtual Reality, Multimedia Analysis, XAI, Human-Computer Interaction
+- Deeply interested in understanding and creating **Complete Virtual Reality Experiences** using various artificial intelligence technologies.
+- Also profoundly interested in gaining insights from the perspectives of **Cognitive Science and HCI**.
+- Specializes in Video Analysis, 3D Vision Analysis, Generative AI, and XAI 🥰
+- Experienced in Game and Virtual Reality development (Unreal, Unity)
+- Always keen on Web and App Development 🙄
