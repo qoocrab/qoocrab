@@ -1,4 +1,4 @@
-### VRAI Researcher 🤔
+### Immersive Media Researcher 🤔
 - Assistant Professor in the Department of Software, Dankook University 🔮
 - Postdoctoral Researcher, Computer Science, Yonsei University
 - Ph.D. in Computer Science from Yonsei University
