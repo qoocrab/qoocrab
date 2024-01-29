@@ -1,5 +1,5 @@
 ### Immersive Media Researcher 🤔
-- Assistant Professor in the Department of Software, Dankook University (DKU) 🔮
+- Assistant Professor in the Department of Software, Dankook University (DKU) 🔮 (2024.03 ~)
 - Postdoctoral Researcher in Computer Science, Yonsei University
 - Ph.D. in Computer Science, Yonsei University
 - Game Programmer at Nexon
