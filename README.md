@@ -1,7 +1,7 @@
 ### Immersive Media Researcher 🤔
 - Assistant Professor in the Department of Software Science, Dankook University (DKU)🔮
 - Ph.D. in Computer Science, Yonsei University
-- Game Client Programmer at Nexon, NC
+- Game Client Programmer at Nexon, NCSoft
 
 ### Interests
 - Virtual Reality, Multimedia Analysis, XAI, Human-Computer Interaction, Cognitive Science
