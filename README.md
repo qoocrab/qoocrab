@@ -1,5 +1,6 @@
 ### Immersive Media Researcher 🤔
-- Assistant Professor in the Department of Software Science, Dankook University (DKU)🔮
+- Assistant Professor, Department of Software, Dankook University
+- Immersive Systems · Cognitive Modeling · Virtual Experience Design
 
 ### Interests
 - Virtual Reality, Multimedia Analysis, XAI, Human-Computer Interaction, Cognitive Science
